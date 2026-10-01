@@ -269,5 +269,5 @@ MIT License
 
 Cybersecurity | Offensive Security | Security Engineering
 
-**GitHub:** `<https://github.com/DMN-Security>`
+**GitHub:** `https://github.com/DMN-Security
 
